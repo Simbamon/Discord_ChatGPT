@@ -1,0 +1,7 @@
+{
+  "name": "chat_gpt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Simbamon",
+  "license": "MIT"
+}
